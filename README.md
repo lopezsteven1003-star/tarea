@@ -3,7 +3,7 @@ se desarrollo los siguientes ejercicios.
 
 1.
 Número de columna de excel (excel.cpp)
-Mejor tiempo para comprar y vender(comprar_vender.pp
+Mejor tiempo para comprar y vender(adaf.pp
 conjetura(conjetura.cpp)
 
 2.
